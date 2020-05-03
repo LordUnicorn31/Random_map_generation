@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Random map generation
 
 You can use the [editor on GitHub](https://github.com/LordUnicorn31/Random_map_generation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
