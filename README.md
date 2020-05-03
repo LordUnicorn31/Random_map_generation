@@ -1,4 +1,29 @@
-## Random map generation
+### Random map generation
+
+## Introduction
+
+In this webpage you will find all the information about the random generation of maps in video games.
+
+## Procedural generation
+
+In computing, procedural generation is a method of creating data algorithmically as opposed to manually, typically through a combination of human-generated assets and algorithms coupled with computer-generated randomness and processing power. In video games, it is used to automatically create large amounts of content in a game. Depending on the implementation, advantages of procedural generation can include smaller file sizes, larger amounts of content, and randomness for less predictable gameplay. Procedural generation is a branch of media synthesis.
+
+# Applications of procedural generation
+
+-Terrain/level creation
+
+-Enemies/spawning
+
+-Loot/weapons/gear
+
+-Models/textures/animations
+
+-Sound/music
+
+-Story/quests/dialog
+
+
+
 
 You can use the [editor on GitHub](https://github.com/LordUnicorn31/Random_map_generation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
