@@ -8,6 +8,8 @@ In this webpage you will find all the information about the random generation of
 
 In computing, procedural generation is a method of creating data algorithmically as opposed to manually, typically through a combination of human-generated assets and algorithms coupled with computer-generated randomness and processing power. In video games, it is used to automatically create large amounts of content in a game. Depending on the implementation, advantages of procedural generation can include smaller file sizes, larger amounts of content, and randomness for less predictable gameplay. Procedural generation is a branch of media synthesis.
 
+![Image](https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/d/d4/Jungle_River.png/1200px-Jungle_River.png)
+
 ### Applications of procedural generation
 
 -Terrain/level creation
@@ -52,7 +54,7 @@ As we just saw, complete randomness can be great… or disastrous. Instead of dr
 
 The seed is a value that it used at the starting point when generating a random map. This seed is a value.
 
-Yes, sounds cool, butwhy should we care about this number? Well, the answer is easy, we care about this number because it represents a specific configuration of the map we are creating. What it means is that whenever we put the same seed the same map will always be created. Eventhough it is not a must in a video game it is always cool to have this option so that the player can investigate and look for cool seeds to share with other people. Keep in mind that eventhough the map is the same each player can play in a different way and use the map and resources in a different way.
+Yes, sounds cool, but why should we care about this number? Well, the answer is easy, we care about this number because it represents a specific configuration of the map we are creating. What it means is that whenever we put the same seed the same map will always be created. Eventhough it is not a must in a video game it is always cool to have this option so that the player can investigate and look for cool seeds to share with other people. Keep in mind that eventhough the map is the same each player can play in a different way and use the map and resources in a different way.
 
 ### Pre-generated features
 
