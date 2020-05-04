@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this webpage you will find all the information about the random generation of maps in video games.
+Welcome everybody,I'm Jordi Espriu and I'm a student of the CITM in Barcelona. In this webpage you will find all the information about the random generation of maps in video games.
 
 ## Procedural generation
 
