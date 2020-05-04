@@ -2,11 +2,13 @@
 
 ## Introduction
 
-In this webpage you will find all the information about the random generation of maps in video games.
+Welcome everybody,I'm Jordi Espriu and I'm a student of the CITM in Barcelona. In this webpage you will find all the information about the random generation of maps in video games.
 
 ## Procedural generation
 
 In computing, procedural generation is a method of creating data algorithmically as opposed to manually, typically through a combination of human-generated assets and algorithms coupled with computer-generated randomness and processing power. In video games, it is used to automatically create large amounts of content in a game. Depending on the implementation, advantages of procedural generation can include smaller file sizes, larger amounts of content, and randomness for less predictable gameplay. Procedural generation is a branch of media synthesis.
+
+![Image](https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/d/d4/Jungle_River.png/1200px-Jungle_River.png)
 
 ### Applications of procedural generation
 
@@ -52,7 +54,7 @@ As we just saw, complete randomness can be great… or disastrous. Instead of dr
 
 The seed is a value that it used at the starting point when generating a random map. This seed is a value.
 
-Yes, sounds cool, butwhy should we care about this number? Well, the answer is easy, we care about this number because it represents a specific configuration of the map we are creating. What it means is that whenever we put the same seed the same map will always be created. Eventhough it is not a must in a video game it is always cool to have this option so that the player can investigate and look for cool seeds to share with other people. Keep in mind that eventhough the map is the same each player can play in a different way and use the map and resources in a different way.
+Yes, sounds cool, but why should we care about this number? Well, the answer is easy, we care about this number because it represents a specific configuration of the map we are creating. What it means is that whenever we put the same seed the same map will always be created. Eventhough it is not a must in a video game it is always cool to have this option so that the player can investigate and look for cool seeds to share with other people. Keep in mind that eventhough the map is the same each player can play in a different way and use the map and resources in a different way.
 
 ### Pre-generated features
 
@@ -64,7 +66,7 @@ Let's put a dungeon crawler game as an example to see this topic.
 
 ·Quests - Hand-craft a number of quests and sprinkle them throughout the game amidst the fetch quests. A cool idea might be to disguise a set-quest as a fetch quest, surprising the player with a boss or some awesome loot.
 
-
+![Image](https://media.moddb.com/images/articles/1/230/229234/auto/34507-utero_xl_bindi.jpg)
 ## Cool, but how can I apply this to my own games? (Design)
 
 Well, first of all you need a design stage to decide what will be random and what will not, this is basically because randomness is a really cool feature but could be deadly when used wrong.
@@ -81,41 +83,10 @@ With this done we should have an idea of how to design a game that is going to b
 Now that we have our design done we will proceed to programm the game. In this example we will use the "random" library from visual studio.
 
 
+### Links and references
+
+[Basic video about Procedural Generation](https://www.youtube.com/watch?v=-POwgollFeY&t=175s​)
+
+[Building worlds in No man's sky](https://www.youtube.com/watch?v=C9RyEiEzMiU)
 
 
-
-You can use the [editor on GitHub](https://github.com/LordUnicorn31/Random_map_generation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LordUnicorn31/Random_map_generation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
