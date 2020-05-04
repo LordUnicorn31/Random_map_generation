@@ -48,6 +48,26 @@ As we just saw, complete randomness can be great… or disastrous. Instead of dr
 
 -Quests - “Fetch ______ ______’s from ______ for ______”.
 
+### Seeds
+
+The seed is a value that it used at the starting point when generating a random map. This seed is a value.
+
+Yes, sounds cool, butwhy should we care about this number? Well, the answer is easy, we care about this number because it represents a specific configuration of the map we are creating. What it means is that whenever we put the same seed the same map will always be created. Eventhough it is not a must in a video game it is always cool to have this option so that the player can investigate and look for cool seeds to share with other people. Keep in mind that eventhough the map is the same each player can play in a different way and use the map and resources in a different way.
+
+### Pre-generated features
+
+Let's put a dungeon crawler game as an example to see this topic.
+
+·Dungeon Layout - Create “blocks” that consist of several tiles preconfigured with decorations, traps, and enemies. Imagine 4 Skeleton Guards faithfully guarding a booby-trapped sacred altar with a Golden Chalice on top. Sounds cool, right? (The Division, Diablo, and Spelunky all do something like this.
+
+·Loot - Create Named Weapons that have unique stats like “The Party Pooper” which is the only weapon in the game that makes a sad trombone noise and spews out confetti every time you kill an enemy. (The Division, Diablo, Borderlands, and many others have named items)
+
+·Quests - Hand-craft a number of quests and sprinkle them throughout the game amidst the fetch quests. A cool idea might be to disguise a set-quest as a fetch quest, surprising the player with a boss or some awesome loot.
+
+
+
+
+
 
 
 
