@@ -80,8 +80,13 @@ With this done we should have an idea of how to design a game that is going to b
 
 ## Cool, but how can I apply this to my own games? (Programming)
 
-Now that we have our design done we will proceed to programm the game. In this example we will use the "random" library from visual studio.
+Now that we have our design done we will proceed to programm the game. In this example we will use the "random" library from visual studio. 
 
+We will keep with our dungeon example:
+
+We will create data structures that will contain the tiles and the direction of the tiles. Then we will create a Map class that will have all the functions related to getting and setting the cells of the map and the tiles.
+
+After that we will create a call called MakeDungeon that will contain a set of different functions to create each feature of the dungeon (rooms, corridors etc...) and with the random functions from C++ we will create a map that randomly puts either rooms or corridors
 
 ### Links and references
 
