@@ -66,7 +66,7 @@ Let's put a dungeon crawler game as an example to see this topic.
 
 ·Quests - Hand-craft a number of quests and sprinkle them throughout the game amidst the fetch quests. A cool idea might be to disguise a set-quest as a fetch quest, surprising the player with a boss or some awesome loot.
 
-
+![Image](https://media.moddb.com/images/articles/1/230/229234/auto/34507-utero_xl_bindi.jpg)
 ## Cool, but how can I apply this to my own games? (Design)
 
 Well, first of all you need a design stage to decide what will be random and what will not, this is basically because randomness is a really cool feature but could be deadly when used wrong.
