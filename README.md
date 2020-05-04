@@ -124,6 +124,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Links and references
 
 [Basic video about Procedural Generation](https://www.youtube.com/watch?v=-POwgollFeY&t=175s​)
-[Building Worlds in No Man's Sky Using Math(s)] (https://www.youtube.com/watch?v=C9RyEiEzMiU)
+
+[Building worlds in No man's sky](https://www.youtube.com/watch?v=C9RyEiEzMiU)
 
 
