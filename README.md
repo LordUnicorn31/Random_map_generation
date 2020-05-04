@@ -65,7 +65,20 @@ Let's put a dungeon crawler game as an example to see this topic.
 ·Quests - Hand-craft a number of quests and sprinkle them throughout the game amidst the fetch quests. A cool idea might be to disguise a set-quest as a fetch quest, surprising the player with a boss or some awesome loot.
 
 
+## Cool, but how can I apply this to my own games? (Design)
 
+Well, first of all you need a design stage to decide what will be random and what will not, this is basically because randomness is a really cool feature but could be deadly when used wrong.
+
+For example, let's say we want to create a dungeon-like game. In this game there are ores that can be found in the mines, enemies, and drops/loots (apart from other things that we won't consider in this example).
+So, with this example we will learn to "force" randomness in order to have a balanced game.
+First of all, we will consider that the number of rooms is not limited by any number (kind of minecraft style). What this means is that we aren't forcing the game to have any output, we tell it to create a random map with a random number of rooms and it does so. But can we do this with all the features of the game? I don't think so and I will explain you why.
+Now we are puting the ores in the map, in this case it is not a good idea to let the game decide which number of ores it should put in the map. In this case we should force the game to put certain number of each ores and we will work with percentages in order to put the ores (Imagine playing minecraft and half of the map being diamonds!). The percentages are usefull because it allows us to balance the game e.g: 1% daimonds, 5% gold, 15% iron, 79% dirt. Now that looks more like a balanced game!
+
+With this done we should have an idea of how to design a game that is going to be random.
+
+## Cool, but how can I apply this to my own games? (Programming)
+
+Now that we have our design done we will proceed to programm the game. In this example we will use the "random" library from visual studio.
 
 
 
